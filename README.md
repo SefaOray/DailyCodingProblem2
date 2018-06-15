@@ -6,3 +6,4 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division?
 
+### Note: This is not official/best/preferred solution or anything like that. This is just how I solved it. If you are looking for challanges or solutions to Daily Coding Problems, please visit [DailyCodingProblem.com](https://www.dailycodingproblem.com/)
